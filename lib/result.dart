@@ -13,7 +13,7 @@ class Result extends StatelessWidget {
     } else if (totalScore < 21) {
       return 'You are strong and independent person!';
     } else {
-      return 'You are prone to conflict and highly phylosopical person!';
+      return 'You are  to conflictive and highly phylosopical person!';
     }
   }
 
